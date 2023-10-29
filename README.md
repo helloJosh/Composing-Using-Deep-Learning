@@ -19,7 +19,8 @@ Non-Copyright Music에 대한 수요의 증가로 인해 인디 개발자들의 
 프로젝트 기간 : 2018.10~2019.09
 개발 언어 : Python
 사용 라이브러리 : selenim - , ipykernal - , tensorflow - , keras - , music21 - 
-
+모델 학습 주요코드 : mysite/music.py
+장고 서버 알고리즘 코드 : polls/views.py
 
 작품설명
 초기화면 작업후 다운로드화면
