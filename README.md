@@ -1,12 +1,6 @@
-# python2
- 
-### django와 apache를 연동해 로컬에 미리 학습시켜 저장되어 있는 모델을 이용해 음악(abc notation) 생성, midi파일로 추출
-### 현재는 mysite 경로에서 python manage.py runserver 커맨드로 apache 연동 없이 가상서버로 동작 확인 가능
-
-
 <div align="center">
  <p align="center">
-  [2019] 딥러닝을 이용한 BGM 작곡 설계 및 구현
+  #[2019] 딥러닝을 이용한 BGM 작곡 설계 및 구현
  </p>
 </div>
 Non-Copyright Music에 대한 수요의 증가로 인해 인디 개발자들의 2차 창작물을 증가할 수 있게 비즈니스적 문제를 해결하고자 주제를 선정하였습니다.
