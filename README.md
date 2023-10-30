@@ -46,6 +46,12 @@
 
 
 ## 결과 음악
-1.2.3.
+<audio controls>
+  <source src="readme/happy.mp3" type="audio/mpeg">
+  <source src="readme/calm.mp3" type="audio/mpeg">
+  <source src="readme/urgency.mp3" type="audio/mpeg">
+</audio>
 
 첨부 논문
+
+<a href="readme/Design and Implementation of BGM Composition Service Using Deep Learning.pdf"/>
