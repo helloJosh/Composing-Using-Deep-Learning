@@ -30,13 +30,17 @@
 ## 작품설명
 초기화면 작업후 다운로드화면
 
-
+<img src="readme/1.png" width="80" height="80">
+<img src="readme/2.png" width="80" height="80">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 기술설명
 1) 사용 데이터 : abc notation
+<img src="readme/3.png" width="80" height="80">
 2) 학습 모델 : LSTM
+<img src="readme/4.png" width="80" height="80">
 3) 서비스 시스템 구성
+<img src="readme/5.png" width="80" height="80">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
