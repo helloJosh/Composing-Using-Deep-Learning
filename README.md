@@ -24,6 +24,8 @@
 
 장고 서버 알고리즘 코드 :
 * polls/views.py - 모델 로드 후 답을 추출하여 웹 서비스 코드
+
+#### KIPS 추계논문발표대회 금상,우수논문상 수상
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
