@@ -41,17 +41,27 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 결과
-
-
 
 ## 결과 음악
-<audio controls>
-  <source src="readme/happy.mp3" type="audio/mpeg">
-  <source src="readme/calm.mp3" type="audio/mpeg">
-  <source src="readme/urgency.mp3" type="audio/mpeg">
-</audio>
+* happy
+  
 
-첨부 논문
+https://github.com/helloJosh/Composing-Using-Deep-Learning/assets/37134368/e8739b4d-e72e-46db-9114-fddfa9e1fb9a
 
-<a href="readme/Design and Implementation of BGM Composition Service Using Deep Learning.pdf"/>
+
+* calm
+  
+
+https://github.com/helloJosh/Composing-Using-Deep-Learning/assets/37134368/ccb3006c-35f7-4a35-91b1-cd446958194b
+
+
+* urgency
+
+
+https://github.com/helloJosh/Composing-Using-Deep-Learning/assets/37134368/96f97a57-e7a9-4cfb-88d9-9b8724857249
+
+
+
+### 첨부 논문
+[Design and Implementation of BGM Composition Service Using Deep Learning.pdf](https://github.com/helloJosh/Composing-Using-Deep-Learning/files/13207383/Design.and.Implementation.of.BGM.Composition.Service.Using.Deep.Learning.pdf)
+
