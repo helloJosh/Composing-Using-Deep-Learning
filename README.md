@@ -46,6 +46,10 @@
 
 <img src="readme/5.png" width="450" height="300">
 
+![Screenshot 2024-07-16 at 10 29 00 AM](https://github.com/user-attachments/assets/6f333a44-fcda-4e94-8fb5-cf6126312320)
+
+![Screenshot 2024-07-16 at 10 29 09 AM](https://github.com/user-attachments/assets/af33b552-c6b2-45c8-9f69-9e479a2d194e)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
