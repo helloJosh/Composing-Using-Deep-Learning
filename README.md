@@ -38,18 +38,20 @@
 ## 기술설명
 사용 데이터 : abc notation
 
-<img src="readme/3.png" width="450" height="300">
+<img src="readme/3.png" width="900" height="600">
 학습 모델 : LSTM
 
-<img src="readme/4.png" width="450" height="300">
+<img src="readme/4.png" width="900" height="600">
 서비스 시스템 구성
 
-<img src="readme/5.png" width="450" height="300">
+<img src="readme/5.png" width="900" height="600">
 
 학습 구성도
+
 ![Screenshot 2024-07-16 at 10 29 00 AM](https://github.com/user-attachments/assets/6f333a44-fcda-4e94-8fb5-cf6126312320)
 
 요청 흐름도
+
 ![Screenshot 2024-07-16 at 10 29 09 AM](https://github.com/user-attachments/assets/af33b552-c6b2-45c8-9f69-9e479a2d194e)
 
 
