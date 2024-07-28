@@ -14,8 +14,8 @@
 개발 언어 : Python
 
 사용 라이브러리 : 
-* selenim - 웹 스크롤링 라이브러리
-* ipykernal - Jupyter Notebook 명령쉘 라이브러리
+* selenium - 웹 스크롤링 라이브러리
+* ipykernel - Jupyter Notebook 명령쉘 라이브러리
 * tensorflow - 머신러닝,AI 라이브러리
 * keras - 뉴런 네트워크 라이브러리
 * music21 - 음악 파일 라이브러리
