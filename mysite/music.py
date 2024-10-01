@@ -69,6 +69,18 @@ def open_seq(code_list):
                 data[j][l - 1] = data[j][l - 1] + data[j][l]
                 learn_data[j].pop()
                 learn_data[j].append(data[j][l - 1])
+            elif data[j][l] is ':' and data[j][l - 1] is ']':
+                data[j][l - 1] = data[j][l - 1] + data[j][l]
+                learn_data[j].pop()
+                learn_data[j].append(data[j][l - 1])
+            elif data[j][l] is '[':
+                data[j][l - 1] = data[j][l - 1] + data[j][l]
+                learn_data[j].pop()
+                learn_data[j].append(data[j][l - 1])
+            elif data[j][l] is ']':
+                data[j][l - 1] = data[j][l - 1] + data[j][l]
+                learn_data[j].pop()
+                learn_data[j].append(data[j][l - 1])
             else:
                 learn_data[j].append(data[j][l])
 
